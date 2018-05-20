@@ -3,6 +3,8 @@ package serializaciondeobjetosaxml;
 import java.io.*;
 import com.thoughtworks.xstream.XStream;
 
+import clases.Persona;
+
 public class EscribirPersonas {
   public static void main(String[] args)
           throws IOException, ClassNotFoundException {   	

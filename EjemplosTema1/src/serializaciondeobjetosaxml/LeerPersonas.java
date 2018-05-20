@@ -5,6 +5,8 @@ import java.util.Iterator;
 import java.util.List;
 import com.thoughtworks.xstream.XStream;
 
+import clases.Persona;
+
 public class LeerPersonas {
   public static void main(String[] args) throws IOException {   	
 	
